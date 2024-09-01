@@ -1,6 +1,6 @@
 <h1 align="center">
 
-_Hi there, I'm Nahuel Fragomeni_
+Hi there, I'm Nahuel Fragomeni
 
 </h1>
 <h3 align="left">Skills</h3>
