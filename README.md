@@ -12,8 +12,16 @@ _Hi there, I'm Nahuel Fragomeni_
 </p>
 
 <h3 align="left">Contact</h3>
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/nahuelfragomeni/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+    <a href="mailto:ezequielfragomeni@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
+
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=nahuelfragomeni&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</div>
