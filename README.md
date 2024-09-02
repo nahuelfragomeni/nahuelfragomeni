@@ -1,8 +1,15 @@
 <h1 align="center">
 
-Hi there, I'm Nahuel Fragomeni
+**Hi there, I'm Nahuel Fragomeni**
 
 </h1>
+
+<h2 align="center">
+
+Web Developer
+
+</h2>
+
 <h3 align="center">Skills</h3>
 
 <p align="center">
